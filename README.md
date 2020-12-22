@@ -1,3 +1,7 @@
+ACAT is an open-source Intel Labs project originally designed for Stephen Hawking. I was assigned the task of integrating sentence prediction to complement the existing word prediction service. My assigned project required the integration of the Python prediction service with the C# ACAT frontend. For this, we used sockets to transmit data from the frontend to the prediction service.
+
+ORIGINAL README BELOW
+
 ## Official release of ACAT v1.50.0 is now available [here](https://github.com/01org/acat/releases)
 
 
